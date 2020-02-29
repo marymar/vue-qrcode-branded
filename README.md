@@ -1,4 +1,4 @@
-# vue-qr-branded
+# Vue QR Branded Code
 
 ## Project setup
 ```
